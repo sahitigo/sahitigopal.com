@@ -37,7 +37,7 @@ var pull = .03;
 
 function txt(){
   var t = "Sahiti Gopal".split("").join(String.fromCharCode(0x2004));
-  $.font = "3.5em Philosopher";
+  $.font = "bold 3.5em Amatic SC";
   $.fillStyle = 'hsla(0,0%,30%,1)';
   $.fillText(t, (c.width - $.measureText(t).width) * 0.5, c.height * 0.5);
 }
