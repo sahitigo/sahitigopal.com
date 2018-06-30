@@ -42,10 +42,16 @@ function txt(){
   $.fillText(t, (c.width - $.measureText(t).width) * 0.5, c.height * 0.5);
 }
 
+function fillImage() {
+  var img = document.getElementById('sahiti-logo');
+  $.drawImage(img, (c.width - img.width) * 0.5, (c.height - img.height) * 0.5);
+}
+
 function draw() {
  $.fillStyle = 'hsla(0,0%,95%,.45)';
  $.fillRect(0, 0, c.width, c.height);
-  txt();
+  // txt();
+  fillImage();
   dst.ref();
   var pos = dst.pos;
   var i = dst.parr.length;
