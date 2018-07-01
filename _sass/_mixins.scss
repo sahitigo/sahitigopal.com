@@ -1,4 +1,21 @@
+@mixin small-screen {
+  @media (max-width: #{$small-screen-max-width}) {
+    @content;
+  }
+}
+
+@mixin large-screen {
+  @media (min-width: #{$large-screen-min-width}) {
+    @content;
+  }
+}
+
 @mixin primary-font {
   font-family: $primary-font-family;
   font-weight: $primary-font-weight;
+}
+
+@mixin display-font {
+  font-family: $display-font-family;
+  font-weight: $display-font-weight;
 }

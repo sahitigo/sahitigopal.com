@@ -1,5 +1,13 @@
 body {
+  @include display-font;
+}
+
+main {
   @include primary-font;
+  
+  h1, h2, h3, h4, h5, h6 {
+    @include display-font;
+  }
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -28,5 +36,13 @@ body {
 .navbar-light .navbar-nav .show>.nav-link {
   &::before {
     width: 100%;
+  }
+}
+
+main {
+  font-size: 1.4rem;
+
+  .lead {
+    font-size: 2rem;
   }
 }

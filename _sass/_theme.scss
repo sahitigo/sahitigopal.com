@@ -1,6 +1,11 @@
-$primary-font-family: 'Amatic SC', cursive;
-$primary-font-weight:400;
+$primary-font-family: 'Lato', sans-serif;
+$display-font-family: 'Amatic SC', cursive;
+$primary-font-weight:300;
+$display-font-weight:700;
 $bold-font-weight:700;
 $dark-color:#34495e;
 $light-color:#ecf0f1;
 $primary-color:#e67e22;
+
+$large-screen-min-width: 992px;
+$small-screen-max-width: $large-screen-min-width - 1px;
