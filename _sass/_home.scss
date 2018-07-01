@@ -7,6 +7,8 @@
   overflow: hidden;
 
   #home-nav {
+    @include display-font;
+    
     display: flex;
     position: absolute;
     width: 100%;
@@ -20,7 +22,6 @@
       }
       
       font-size: 2rem;
-      font-weight: 400;
       text-align: center;
       text-decoration: none;
       color: $dark-color;
