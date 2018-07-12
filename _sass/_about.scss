@@ -1,4 +1,11 @@
 #about-page {
+  
+  .left{
+    margin-left: 75px
+  }
+  p{
+    margin-left: 3.5em;
+  }
   .head-shot-container {
     position: relative;
     // The top negative offset is required due to the clipping of image.
@@ -15,6 +22,7 @@
       clip-path: url(#hex-clipping);
     }
   }
+  
 
   @include large-screen {
     .head-shot-container {
