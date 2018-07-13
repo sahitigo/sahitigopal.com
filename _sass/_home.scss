@@ -7,7 +7,7 @@
   overflow: hidden;
 
   #home-nav {
-    @include display-font;
+    @include primary-font;
     
     display: flex;
     position: absolute;

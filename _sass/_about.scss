@@ -1,26 +1,8 @@
 #about-page {
-  
-  .left{
-    margin-left: 75px
-  }
-  p{
-    margin-left: 3.5em;
-  }
-  .head-shot-container {
-    position: relative;
-    // The top negative offset is required due to the clipping of image.
-    // The height of the image is `300px`.
-    // This needs `-150px` top positioning.
-    // However, `h1.display-4` has 5px padding-top
-    // So, the effective top positioning required is `-145px`
-    top: -145px;
-
-    img.headshot {
-      display: block;
-      width: 260px;
-      margin: 0 auto;
-      clip-path: url(#hex-clipping);
-    }
+  .image-container {
+    background-color: #000;
+    display: flex;
+    align-items: center;
   }
   
 
