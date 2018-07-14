@@ -1,0 +1,41 @@
+#blog-page {
+  .blog-post-sizer, .blog-post {
+    width: calc(50% - 10px);
+  }
+  
+  .blog-post-gutter-sizer {
+    width: 10px;
+  }
+  
+  @media only screen and (min-width: $large-screen-min-width) {
+    .blog-post-sizer, .blog-post {
+      width: calc(33% - 6px);
+    }
+    
+    .blog-post-gutter-sizer {
+      width: 10px;
+    }
+  }
+  
+  .blog-post {
+    border: 1px solid $dark-color;
+    box-sizing: border-box;
+    padding: 0.5rem;
+    margin-bottom: 10px;
+    
+    a {
+      display: block;
+      width: 100%;
+      
+      img {
+        display: block;
+        width: 100%;
+      }
+      
+      .post-title {
+        display: block;
+        text-align: center;
+      }
+    }
+  }
+}

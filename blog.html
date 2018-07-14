@@ -7,11 +7,13 @@ permalink: /blog/
 <h1 class="display-4">Blog</h1>
 
 <div id="blog-posts">
+  <div class="blog-post-sizer"></div>
+  <div class="blog-post-gutter-sizer"></div>
   {% for post in site.posts %}
     <div class="blog-post">
-      <a href='{{site.baseurl}}{{post.url}}' style='display: block;'>
-        <img src="{{post.image}}" style='width: 200px;'></img>
-        <div>{{post.title}}</div>
+      <a href='{{site.baseurl}}{{post.url}}'>
+        <img src="{{post.image}}"></img>
+        <span class='post-title'>{{post.title}}</span>
       </a>
     </div>
   {% endfor %}
@@ -21,8 +23,10 @@ permalink: /blog/
 <script>
   $(document).ready(function() {
     $('#blog-posts').masonry({
+      columnWidth: '.blog-post-sizer',
       itemSelector: '.blog-post',
-      columnWidth: 200
+      percentPosition: true,
+      gutter: '.blog-post-gutter-sizer'
     });
   });
 </script>
