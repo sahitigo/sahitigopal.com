@@ -21,12 +21,18 @@ permalink: /blog/
 
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <script>
-  $(document).ready(function() {
+  function initMasonry() {
     $('#blog-posts').masonry({
       columnWidth: '.blog-post-sizer',
       itemSelector: '.blog-post',
       percentPosition: true,
       gutter: '.blog-post-gutter-sizer'
     });
+  }
+  
+  $(document).ready(function() {
+    initMasonry();
   });
+  
+  $( window ).on( "load", initMasonry );
 </script>
