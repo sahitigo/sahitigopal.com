@@ -6,6 +6,23 @@ permalink: /blog/
 
 <h1 class="display-4">Blog</h1>
 
-{% for post in site.posts %}
-  <h2><a href='{{site.baseurl}}{{post.url}}'>{{post.title}}</a></h2>
-{% endfor %}
+<div id="blog-posts">
+  {% for post in site.posts %}
+    <div class="blog-post">
+      <a href='{{site.baseurl}}{{post.url}}' style='display: block;'>
+        <img src="{{post.image}}" style='width: 200px;'></img>
+        <div>{{post.title}}</div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $('#blog-posts').masonry({
+      itemSelector: '.blog-post',
+      columnWidth: 200
+    });
+  });
+</script>
