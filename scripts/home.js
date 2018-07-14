@@ -51,7 +51,7 @@ function draw() {
  $.fillStyle = 'hsla(0,0%,95%,.45)';
  $.fillRect(0, 0, c.width, c.height);
   // txt();
-  fillImage();
+  //fillImage();
   dst.ref();
   var pos = dst.pos;
   var i = dst.parr.length;

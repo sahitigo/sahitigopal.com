@@ -1,0 +1,14 @@
+.two-column-container {
+  @media only screen and (min-width: $large-screen-min-width) {
+    display: flex;
+    align-items: stretch;
+
+    .column {
+      flex-grow: 1;
+      flex-basis: 50%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+}

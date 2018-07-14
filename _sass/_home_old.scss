@@ -1,0 +1,35 @@
+#home-page-old, #land-page-old {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+
+  #home-nav {
+    @include primary-font;
+    
+    display: flex;
+    position: absolute;
+    width: 100%;
+    bottom: 2rem;
+    justify-content: space-around;
+    
+    a {
+      img {
+        width: 8rem;
+        margin-bottom: 1rem;
+      }
+      
+      font-size: 2rem;
+      text-align: center;
+      text-decoration: none;
+      color: $dark-color;
+      transition: all 0.3s ease-in;
+      
+      &:hover {
+        transform: scale(1.4);
+      }
+    }
+  }
+}
