@@ -1,4 +1,12 @@
 #about-page {
+  background-image: url('../images/about-bg.png');
+  background-repeat: repeat-y;
+  background-size: contain;
+  
+  header {
+    background-color: $white;
+  }
+  
   .image-container {
     background-color: #000;
     display: flex;

@@ -1,5 +1,5 @@
 [
-  { "link": "/about/",          "title": "About" },
-  { "link": "/blog/",      "title": "Blog" },
-   { "link": "/contact/",  "title": "Contact" }
+  { "link": "/about/",   "title": "About" },
+  { "link": "/blog/",    "title": "Blog" },
+  { "link": "/contact/", "title": "Contact" }
 ]
