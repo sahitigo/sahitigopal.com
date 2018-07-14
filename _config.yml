@@ -24,6 +24,8 @@ url: "sahitigo.github.io" # the base hostname & protocol for your site, e.g. htt
 twitter_username: jekyllrb
 github_username:  jekyll
 
+exclude: ['.c9']
+
 # Build settings
 markdown: kramdown
 #theme: minima
