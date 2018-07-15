@@ -33,3 +33,5 @@ fields:
 - type: file
   label: Image
   name: image
+pages:
+- _posts/post-from-forestry.md
