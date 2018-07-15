@@ -1,7 +1,9 @@
 #about-page {
-  background-image: url('../images/about-bg.png');
-  background-repeat: repeat-y;
-  background-size: contain;
+  @media only screen and (min-width: $large-screen-min-width) {
+    background-image: url('../images/about-bg.png');
+    background-repeat: repeat-y;
+    background-size: contain;
+  }
   
   header {
     background-color: $white;
