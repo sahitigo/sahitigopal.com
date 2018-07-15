@@ -34,5 +34,3 @@ fields:
 - type: file
   label: Image
   name: image
-pages:
-- _posts/2018-07-15-post-from-forestry.md
