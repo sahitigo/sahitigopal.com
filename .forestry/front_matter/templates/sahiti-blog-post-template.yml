@@ -1,0 +1,35 @@
+---
+label: Sahiti Blog Post Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: true
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Publish Date
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: HH:mm Z
+- type: tag_list
+  name: categories
+  label: Categories
+- type: text
+  name: permalink
+  label: Permalink
+  description: 'Required format: /blog/<title-all-downcase-words-separated-by-hyphen>'
+  config:
+    required: true
+- type: file
+  label: Image
+  name: image
