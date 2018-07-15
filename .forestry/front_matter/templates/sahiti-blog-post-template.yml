@@ -9,6 +9,7 @@ fields:
   hidden: true
   config:
     required: true
+  default: post
 - type: text
   name: title
   label: Title
