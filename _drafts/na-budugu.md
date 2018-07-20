@@ -2,5 +2,12 @@
 title: Na budugu
 layout: post
 date: 2018-07-20 00:00:00 +0000
+categories: []
+permalink: "/blog/na-budugu"
+image: ''
 
 ---
+# **Na budugu**
+
+![](/images/posts/IMG-0023-2018-07-20.PNG)  
+sfddsfdasffgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg![](/images/posts/IMG-0028-2018-07-20.jpg)czxcxzddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
