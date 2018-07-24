@@ -11,19 +11,21 @@ main {
   }
 }
 
-header {
-  height: 100px;
-  
-  nav .navbar-brand {
-    margin: 10px 0;
-  }
-  
-  nav .collapse.navbar-collapse {
-    background-image: url(/images/know-more.png);
-    background-repeat: no-repeat;
-    background-size: 24em 100px;
-    background-position: right;
+@media only screen and (min-width: $large-screen-min-width) {
+  header {
     height: 100px;
+    
+    nav .navbar-brand {
+      margin: 10px 0;
+    }
+    
+    nav .collapse.navbar-collapse {
+      background-image: url(/images/know-more.png);
+      background-repeat: no-repeat;
+      background-size: 24em 100px;
+      background-position: right;
+      height: 100px;
+    }
   }
 }
 
