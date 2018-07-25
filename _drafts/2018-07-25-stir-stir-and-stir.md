@@ -19,7 +19,7 @@ Like every other day, after an hour of my lunch am hungry again. I was searching
 
 #### **And how??**
 
-![](/images/posts/Ingredients-2018-07-25-1.png)
+![](/images/posts/Ingredients-2018-07-25-2.png)
 
 The first thing I did was to ensure if I had everything the reciepe said.
 
