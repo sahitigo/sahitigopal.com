@@ -35,6 +35,10 @@ fields:
   label: Image
   name: image
 - type: datetime
+- type: textarea
+  hidden: true
+  label: Text area
+  name: text_area
 pages:
 - _posts/2018-07-15-hello-world.md
 - _posts/2018-07-25-stir-stir-and-stir.md
