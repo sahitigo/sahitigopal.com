@@ -15,7 +15,7 @@ When was the last time I entered the kitchen with the motive of cooking you ask 
 
 #### **Why did this happen?**
 
-Like every other day, after an hour of my lunch am hungry again. I was searching for everything in  the house hoping to find something interesting(even though knowing that I wouldn't find any).Then all of a sudden I remembered the receipe my mom has sent me over whatsapp.Mysore pak,the Indian sweet prepared in ghee,that is popular in southern India,as the intenet calls. Then this strange craving started,![](/images/posts/Motivation-2018-07-25-4.png)which naturally made me to venture this.
+Like every other day, after an hour of my lunch am hungry again. I was searching for everything in  the house hoping to find something interesting(even though knowing that I wouldn't find any).Then all of a sudden I remembered the receipe my mom has sent me over whatsapp.Mysore pak,the Indian sweet prepared in ghee,that is popular in southern India,as the intenet calls. Then this strange craving started,which naturally made me to venture this.
 
 #### **And how??**
 
