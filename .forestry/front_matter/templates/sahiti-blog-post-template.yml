@@ -34,6 +34,7 @@ fields:
 - type: file
   label: Image
   name: image
+- type: datetime
 pages:
 - _posts/2018-07-15-hello-world.md
 - _posts/2018-07-25-stir-stir-and-stir.md
