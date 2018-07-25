@@ -4,7 +4,7 @@ layout: post
 date: 2018-07-25 00:00:00 +0000
 categories: []
 permalink: "/stir-,-stir-,-and-stir/"
-image: "/images/posts/Mysorepak-2018-07-25.jpg"
+image: "/images/posts/Mysorepak-2018-07-25-1.jpg"
 undefined: ''
 text_area: ''
 
