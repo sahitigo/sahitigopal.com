@@ -31,7 +31,7 @@ The first thing I did was to ensure if I had everything the reciepe said.
 
 1/2 cup	-	Water
 
-Everything in equal amounts. First thing to do is put everything you need ready ,next to you.
+First thing to do is put everything you need ready ,next to you.
 
 Then,fry the besan on low flame for 2-3 minutes,and put it aside.
 
@@ -41,7 +41,7 @@ Next take 1/2 cup of water,add sugar and stir it and make sugarsyrup.
 
 Now,carefully add besan to it and keep stirring.
 
-Finally add ghee to it and again keep stirring. 
+Finally add ghee to it and again keep stirring.
 
 At a point you see the bubbles and the whole batter hardening.
 
