@@ -35,9 +35,11 @@ Then,fry the besan on low flame for 2-3 minutes,and put it aside.
 
 Next take 1/2 cup of water,add sugar and stir it and make sugarsyrup.
 
+![](/images/posts/Stir-2018-07-26.png)
+
 Now,carefully add besan to it and keep stirring.
 
-Finally add ghee to it and again keep stirring. (Stir,as if there's no stop.)
+Finally add ghee to it and again keep stirring. 
 
 At a point you see the bubbles and the whole batter hardening.
 
