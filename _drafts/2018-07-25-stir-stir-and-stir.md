@@ -17,7 +17,9 @@ When was the last time I entered the kitchen with the motive of cooking you ask 
 
 Like every other day, after an hour of my lunch am hungry again. I was searching for everything in  the house hoping to find something interesting(even though knowing that I wouldn't find any).Then all of a sudden I remembered the receipe my mom has sent me over whatsapp.Mysore pak,the Indian sweet prepared in ghee,that is popular in southern India,as the intenet calls. Then this strange craving started,which naturally made me to venture this.
 
-#### **And how![](/images/posts/Ingredients-2018-07-26.png)**
+#### **And how**
+
+![](/images/posts/Ingredients-2018-07-26.png)
 
 The first thing I did was to ensure if I had everything the reciepe said.
 
