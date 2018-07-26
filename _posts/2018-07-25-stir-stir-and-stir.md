@@ -31,7 +31,7 @@ The first thing I did was to ensure if I had everything the reciepe said.
 
 1/2 cup	-	Water
 
-First thing to do is put everything you need ready ,next to you.
+First thing to do is put everything you need ,ready ,next to you.
 
 Then,fry the besan on low flame for 2-3 minutes,and put it aside.
 
