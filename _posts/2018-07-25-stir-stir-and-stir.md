@@ -3,7 +3,7 @@ title: Stir,stir and stir
 layout: post
 date: 2018-07-25 00:00:00 +0000
 categories: []
-permalink: "/stir-,-stir-,-and-stir/"
+permalink: "/blog/stir-stir-and-stir"
 image: "/images/posts/Mysorepak-2018-07-26.jpg"
 undefined: ''
 text_area: ''
