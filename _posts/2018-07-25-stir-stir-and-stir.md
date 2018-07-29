@@ -19,7 +19,7 @@ Like every other day, after an hour of my lunch am hungry again. I was searching
 
 #### **And how**
 
-![](/images/posts/Ingredients-2018-07-26.png)
+![](/images/posts/Ingredients-2018-07-29.png)
 
 The first thing I did was to ensure if I had everything the recipe said.
 
@@ -33,22 +33,28 @@ The first thing I did was to ensure if I had everything the recipe said.
 
 Pinch of cardamom and raw camphor
 
-First thing to do is put everything you need ready , next to you.
+* First thing to do is put everything you need, ready , next to you.
 
-Then, fry the besan on low flame for 2-3 minutes, and put it aside.
 
-Next take 1/2 cup of water, add sugar and stir it and make sugar syrup.
+* Then, fry the besan on low flame for 2-3 minutes, and put it aside.
+
+
+* Next take 1/2 cup of water, add sugar and stir it and make sugar syrup.
 
 ![](/images/posts/Stir-2018-07-26.png)
 
-Now, carefully add besan to it and keep stirring.
+* Now, carefully add besan to it and keep stirring.
 
-Finally add ghee to it and again keep stirring. (Stir, as if there's no stop.)
 
-At a point you see the bubbles and the whole batter hardening.
+* Finally add ghee to it and again keep stirring. (Stir, as if there's no stop.)
 
-Apply ghee to a plate, and transfer onto it.
 
-Set it aside for 30 - 60 minutes. Let it cool down.
+* At a point you see the bubbles and the whole mixture hardening.
+
+
+* Apply ghee to a plate, and transfer onto it.
+
+
+* Set it aside for 30 - 60 minutes. Let it cool down.
 
 Tada, you're all set to eat.
