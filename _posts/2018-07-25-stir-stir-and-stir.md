@@ -9,9 +9,12 @@ undefined: ''
 text_area: ''
 
 ---
+
+When was the last time I entered the kitchen with the motive of cooking you ask me, that's one difficult question to answer. 
+
 ![](/images/posts/Motivation-2018-07-29.png)
 
-When was the last time I entered the kitchen with the motive of cooking you ask me, that's one difficult question to answer. Somehow nothing could ever inspire me, seriously nothing, not even my mom's constant nudging. As they say ,the way to a person's heart is through their stomach, the only way I could find the way to my kitchen is through my hunger. It is the only thing that could motivate me.
+Somehow nothing could ever inspire me, seriously nothing, not even my mom's constant nudging. As they say ,the way to a person's heart is through their stomach, the only way I could find the way to my kitchen is through my hunger. It is the only thing that could motivate me.
 
 #### **Why did this happen?**
 
