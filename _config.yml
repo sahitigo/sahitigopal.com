@@ -16,7 +16,7 @@
 title: Sahiti Gopal
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sahiti.Illustrator | Designer | Artist.
+  Illustrator | Designer | Artist.
 # baseurl: "/sahitigopal.com" # the subpath of your site, e.g. /blog
 url: "https://www.sahitigo.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
