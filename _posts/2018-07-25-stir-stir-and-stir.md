@@ -1,7 +1,7 @@
 ---
 title: Stir,stir and stir
 layout: post
-date: 2018-07-26 23:30:00 +0000
+date: 2018-07-25 00:00:00 +0000
 categories: []
 permalink: "/blog/stir-stir-and-stir"
 image: "/images/posts/Mysorepak-2018-07-26.jpg"
@@ -9,7 +9,8 @@ undefined: ''
 text_area: ''
 
 ---
-![](/images/posts/Motivation-2018-07-29.png)
+
+![](/images/posts/Lazy-me-2018-07-26.png)
 
 When was the last time I entered the kitchen with the motive of cooking you ask me, that's one difficult question to answer. Somehow nothing could ever inspire me, seriously nothing, not even my mom's constant nudging. As they say ,the way to a person's heart is through their stomach, the only way I could find the way to my kitchen is through my hunger. It is the only thing that could motivate me.
 
