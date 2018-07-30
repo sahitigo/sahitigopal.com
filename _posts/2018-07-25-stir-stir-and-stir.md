@@ -39,7 +39,7 @@ Pinch of cardamom and raw camphor
 * Then, fry the besan on low flame for 2-3 minutes, and put it aside.
 * Next take 1/2 cup of water, add sugar and stir it and make sugar syrup.
 
-![](/images/posts/Stir-2018-07-30.png)
+![](/images/posts/Stir-2018-07-30-1.png)
 
 * Now, carefully add besan to it and keep stirring.
 * Finally add ghee to it and again keep stirring. (Stir, as if there's no stop.)
