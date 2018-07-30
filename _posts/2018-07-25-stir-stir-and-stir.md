@@ -9,10 +9,16 @@ undefined: ''
 text_area: ''
 
 ---
+<<<<<<< HEAD
 
 ![](/images/posts/Lazy-me-2018-07-26.png)
+=======
+When was the last time I entered the kitchen with the motive of cooking you ask me, that's one difficult question to answer.
 
-When was the last time I entered the kitchen with the motive of cooking you ask me, that's one difficult question to answer. Somehow nothing could ever inspire me, seriously nothing, not even my mom's constant nudging. As they say ,the way to a person's heart is through their stomach, the only way I could find the way to my kitchen is through my hunger. It is the only thing that could motivate me.
+![](/images/posts/Motivation-2018-07-29.png)
+>>>>>>> bb02843df3ab90a85c76e2ead3cefe68c73db0b5
+
+Somehow nothing could ever inspire me, seriously nothing, not even my mom's constant nudging. As they say ,the way to a person's heart is through their stomach, the only way I could find the way to my kitchen is through my hunger. It is the only thing that could motivate me.
 
 #### **Why did this happen?**
 
@@ -34,14 +40,21 @@ The first thing I did was to ensure if I had everything the recipe said.
 
 Pinch of cardamom and raw camphor
 
+<<<<<<< HEAD
 First thing to do is put everything you need ready , next to you.
 
 Then, fry the besan on low flame for 2-3 minutes, and put it aside.
 
 Next take 1/2 cup of water, add sugar and stir it and make sugar syrup.
+=======
+* First thing to do is put everything you need, ready , next to you.
+* Then, fry the besan on low flame for 2-3 minutes, and put it aside.
+* Next take 1/2 cup of water, add sugar and stir it and make sugar syrup.
+>>>>>>> bb02843df3ab90a85c76e2ead3cefe68c73db0b5
 
-![](/images/posts/Stir-2018-07-26.png)
+![](/images/posts/Stir-2018-07-30-1.png)
 
+<<<<<<< HEAD
 Now, carefully add besan to it and keep stirring.
 
 Finally add ghee to it and again keep stirring. (Stir, as if there's no stop.)
@@ -51,5 +64,12 @@ At a point you see the bubbles and the whole batter hardening.
 Apply ghee to a plate, and transfer onto it.
 
 Set it aside for 30 - 60 minutes. Let it cool down.
+=======
+* Now, carefully add besan to it and keep stirring.
+* Finally add ghee to it and again keep stirring. 
+* At a point you see the bubbles and the whole mixture hardening.
+* Apply ghee to a plate, and transfer onto it.
+* Set it aside for 30 - 60 minutes. Let it cool down.
+>>>>>>> bb02843df3ab90a85c76e2ead3cefe68c73db0b5
 
 Tada, you're all set to eat.
