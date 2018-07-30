@@ -42,7 +42,7 @@ Pinch of cardamom and raw camphor
 ![](/images/posts/Stir-2018-07-30-1.png)
 
 * Now, carefully add besan to it and keep stirring.
-* Finally add ghee to it and again keep stirring. (Stir, as if there's no stop.)
+* Finally add ghee to it and again keep stirring. 
 * At a point you see the bubbles and the whole mixture hardening.
 * Apply ghee to a plate, and transfer onto it.
 * Set it aside for 30 - 60 minutes. Let it cool down.
