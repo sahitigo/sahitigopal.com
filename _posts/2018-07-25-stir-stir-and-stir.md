@@ -1,7 +1,7 @@
 ---
 title: Stir,stir and stir
 layout: post
-date: 2018-07-25 00:00:00 +0000
+date: 2018-07-30 02:23:00 +0000
 categories: []
 permalink: "/blog/stir-stir-and-stir"
 image: "/images/posts/Mysorepak-2018-07-26.jpg"
@@ -23,8 +23,6 @@ Like every other day, after an hour of my lunch am hungry again. I was searching
 
 ![](/images/posts/Ingredients-2018-07-29.png)
 
-The first thing I did was to ensure if I had everything the recipe said.
-
 1   cup   -              Besan
 
 1   cup   -              Sugar
@@ -35,13 +33,13 @@ The first thing I did was to ensure if I had everything the recipe said.
 
 Pinch of cardamom and raw camphor
 
-* First thing to do is put everything you need ready ,next to you. 
+* First thing to do is put everything you need ,ready ,next to you. 
 
 
 * Then,fry the besan on low flame for 2-3 minutes,and put it aside.
 
 
-* Next take 1/2 cup of water,add sugar and stir it and make sugarsyrup.
+* Next take 1/2 cup of water,add sugar and stir it and make sugar syrup.
 
   ![](/images/posts/Stir-2018-07-30-1.png)
 
@@ -55,7 +53,7 @@ Pinch of cardamom and raw camphor
 * At a point you see the bubbles and the whole mixture hardening. 
 
 
-* Apply ghee to a plate,and transfer ontoit.
+* Apply ghee to a plate,and transfer it.
 
 
 * Set it aside for 30 - 60 minutes.Let it cool down.
