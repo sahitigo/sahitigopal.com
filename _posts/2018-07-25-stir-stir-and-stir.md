@@ -9,8 +9,7 @@ undefined: ''
 text_area: ''
 
 ---
-
-When was the last time I entered the kitchen with the motive of cooking you ask me, that's one difficult question to answer. 
+When was the last time I entered the kitchen with the motive of cooking you ask me, that's one difficult question to answer.
 
 ![](/images/posts/Motivation-2018-07-29.png)
 
@@ -40,7 +39,7 @@ Pinch of cardamom and raw camphor
 * Then, fry the besan on low flame for 2-3 minutes, and put it aside.
 * Next take 1/2 cup of water, add sugar and stir it and make sugar syrup.
 
-![](/images/posts/Stir-2018-07-29-2.png)
+![](/images/posts/Stir-2018-07-30.png)
 
 * Now, carefully add besan to it and keep stirring.
 * Finally add ghee to it and again keep stirring. (Stir, as if there's no stop.)
