@@ -33,29 +33,15 @@ Like every other day, after an hour of my lunch am hungry again. I was searching
 
 Pinch of cardamom and raw camphor
 
-* First thing to do is put everything you need ,ready ,next to you. 
-
-
+* First thing to do is put everything you need ,ready ,next to you.
 * Then,fry the besan on low flame for 2-3 minutes,and put it aside.
-
-
 * Next take 1/2 cup of water,add sugar and stir it and make sugar syrup.
 
-  ![](/images/posts/Stir-2018-07-30-1.png)
-
-
-* Now,carefully add besan to it and keep stirring. 
-
-
-* Finally add ghee to it and again keep stirring. 
-
-
-* At a point you see the bubbles and the whole mixture hardening. 
-
-
+  ![](/images/posts/Stir-2018-08-01.png)
+* Now,carefully add besan to it and keep stirring.
+* Finally add ghee to it and again keep stirring.
+* At a point you see the bubbles and the whole mixture hardening.
 * Apply ghee to a plate,and transfer it.
-
-
 * Set it aside for 30 - 60 minutes.Let it cool down.
 
 Tada,you're all set to eat.
