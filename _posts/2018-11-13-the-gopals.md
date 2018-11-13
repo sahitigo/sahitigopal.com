@@ -4,9 +4,9 @@ layout: post
 date: 2018-11-13 16:10
 categories: []
 permalink: the-gopals
-image: "/images/posts/the-gopals-2018-11-13.JPG"
+image: "/images/posts/the-gopals-2018-11-13.png"
 undefined: ''
 text_area: ''
 
 ---
-![](/images/posts/the-gopals-2018-11-13.JPG)
+![](/images/posts/the-gopals-2018-11-13.png)
