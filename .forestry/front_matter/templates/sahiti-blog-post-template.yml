@@ -40,6 +40,7 @@ fields:
   label: Text area
   name: text_area
 pages:
+- _posts/tulasikota-copy.md
 - _posts/2018-11-13-tulasikota.md
 - _posts/2018-11-13-yell-o-yell.md
 - _posts/2018-11-13-being-nosy.md
