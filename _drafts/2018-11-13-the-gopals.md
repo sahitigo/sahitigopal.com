@@ -1,5 +1,5 @@
 ---
-title: the-gopals
+title: The-gopals
 layout: post
 date: 2018-11-13 16:10
 categories: []
