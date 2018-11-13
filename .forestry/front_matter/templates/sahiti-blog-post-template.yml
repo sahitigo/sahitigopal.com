@@ -40,6 +40,7 @@ fields:
   label: Text area
   name: text_area
 pages:
+- _posts/aiyo.md
 - _posts/2018-11-13-brain-food.md
 - _posts/2018-11-13-maata-sahiti.md
 - _posts/2018-11-13-mee.md
