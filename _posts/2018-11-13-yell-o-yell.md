@@ -9,6 +9,6 @@ undefined: ''
 text_area: ''
 
 ---
-![](/images/posts/Yell-o-yell-2018-11-13.JPG)
+![](/images/posts/Yell-o-yell-2018-11-13.png)
 
 Did this ever happen to you? Comment and let me know.
