@@ -40,6 +40,7 @@ fields:
   label: Text area
   name: text_area
 pages:
+- _posts/statue-of-unity.md
 - _posts/2018-11-13-my-love.md
 - _posts/2018-11-13-shiva.md
 - _posts/2018-07-25-stir-stir-and-stir.md
