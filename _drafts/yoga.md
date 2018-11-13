@@ -2,5 +2,11 @@
 title: Yoga
 layout: post
 date: 2018-11-13 16:19
+categories: []
+permalink: yoga
+image: "/images/posts/yoga-2018-11-13.PNG"
+undefined: ''
+text_area: ''
 
 ---
+![](/images/posts/yoga-2018-11-13.PNG)
