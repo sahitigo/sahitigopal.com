@@ -4,11 +4,11 @@ layout: post
 date: 2018-11-13 15:53
 categories: []
 permalink: necessi-tea
-image: "/images/posts/necessi-tea-2018-11-13.JPG"
+image: "/images/posts/necessi-tea-2018-11-13.png"
 undefined: ''
 text_area: ''
 
 ---
-![](/images/posts/necessi-tea-2018-11-13.JPG)
+![](/images/posts/necessi-tea-2018-11-13.png)
 
 This is when the inner master chef awakes.
