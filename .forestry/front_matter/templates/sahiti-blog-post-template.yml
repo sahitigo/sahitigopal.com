@@ -40,7 +40,7 @@ fields:
   label: Text area
   name: text_area
 pages:
-- _posts/necessi-tea.md
+- _posts/2018-11-13-necessi-tea.md
 - _posts/2018-11-13-maggie.md
 - _posts/2018-11-13-virat.md
 - _posts/2018-11-13-accio.md
