@@ -40,6 +40,7 @@ fields:
   label: Text area
   name: text_area
 pages:
+- _posts/2018-11-13-my-love.md
 - _posts/Gallery/x.md
 - _posts/2018-11-13-tulasikota.md
 - _posts/2018-11-13-yell-o-yell.md
@@ -61,7 +62,6 @@ pages:
 - _posts/2018-11-13-maggie.md
 - _posts/2018-11-13-virat.md
 - _posts/2018-11-13-accio.md
-- _posts/2018-11-13-my-love.md
 - _posts/2018-11-13-food-is-goood.md
 - _posts/2018-11-13-statue-of-unity.md
 - _posts/2018-11-13-shiva.md
