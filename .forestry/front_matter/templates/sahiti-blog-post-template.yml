@@ -40,5 +40,4 @@ fields:
   label: Text area
   name: text_area
 pages:
-- _posts/maggie.md
 - _posts/2018-07-25-stir-stir-and-stir.md
