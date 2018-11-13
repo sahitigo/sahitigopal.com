@@ -40,6 +40,7 @@ fields:
   label: Text area
   name: text_area
 pages:
+- _posts/the-gopals.md
 - _posts/2018-11-13-artist.md
 - _posts/2018-11-13-aiyo.md
 - _posts/2018-11-13-brain-food.md
