@@ -4,11 +4,11 @@ layout: post
 date: 2018-11-13 15:58
 categories: []
 permalink: maata-sahiti
-image: "/images/posts/maata-sahiti-2018-11-13.JPG"
+image: "/images/posts/maata-sahiti-2018-11-13.png"
 undefined: ''
 text_area: ''
 
 ---
-![](/images/posts/maata-sahiti-2018-11-13.JPG)
+![](/images/posts/maata-sahiti-2018-11-13.png)
 
-Because in the end, it's your happiness which matters the most.   
+Because in the end, it's your happiness which matters the most.
