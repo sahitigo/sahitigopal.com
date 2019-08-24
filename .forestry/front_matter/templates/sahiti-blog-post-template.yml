@@ -1,7 +1,6 @@
 ---
 label: Sahiti Blog Post Template
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: layout
@@ -40,28 +39,26 @@ fields:
   label: Text area
   name: text_area
 pages:
+- _posts/2018-11-13-yoga.md
+- _posts/2018-11-13-oh-no.md
+- _posts/2018-11-13-statue-of-unity.md
+- _posts/2018-07-25-stir-stir-and-stir.md
 - _posts/2018-11-13-my-love.md
 - _posts/2018-11-13-tulasikota.md
 - _posts/2018-11-13-yell-o-yell.md
-- _posts/2018-11-13-being-nosy.md
 - _posts/2018-11-13-alexa.md
-- _posts/2018-11-13-kal-ho-na-ho.md
 - _posts/2018-11-13-crazy-us.md
-- _posts/2018-11-13-yoga.md
+- _posts/2018-11-13-being-nosy.md
 - _posts/2018-11-13-halloween.md
-- _posts/2018-11-13-diwali.md
-- _posts/2018-11-13-oh-no.md
-- _posts/2018-11-13-the-gopals.md
-- _posts/2018-11-13-artist.md
-- _posts/2018-11-13-aiyo.md
 - _posts/2018-11-13-brain-food.md
-- _posts/2018-11-13-maata-sahiti.md
-- _posts/2018-11-13-mee.md
+- _posts/2018-11-13-the-gopals.md
+- _posts/2018-11-13-kal-ho-na-ho.md
 - _posts/2018-11-13-necessi-tea.md
+- _posts/2018-11-13-maata-sahiti.md
+- _posts/2018-11-13-artist.md
 - _posts/2018-11-13-maggie.md
-- _posts/2018-11-13-virat.md
-- _posts/2018-11-13-accio.md
 - _posts/2018-11-13-food-is-goood.md
-- _posts/2018-11-13-statue-of-unity.md
+- _posts/2018-11-13-virat.md
 - _posts/2018-11-13-shiva.md
-- _posts/2018-07-25-stir-stir-and-stir.md
+- _posts/2018-11-13-diwali.md
+- _posts/2018-11-13-mee.md
