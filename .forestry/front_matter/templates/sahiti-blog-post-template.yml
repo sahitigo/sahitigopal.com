@@ -38,6 +38,3 @@ fields:
   hidden: true
   label: Text area
   name: text_area
-pages:
-- _posts/2018-11-13-yell-o-yell.md
-- _posts/2018-11-13-virat.md
