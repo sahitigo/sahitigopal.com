@@ -39,8 +39,5 @@ fields:
   label: Text area
   name: text_area
 pages:
-- _posts/2018-11-13-yoga.md
-- _posts/2018-07-25-stir-stir-and-stir.md
-- _posts/2018-11-13-tulasikota.md
 - _posts/2018-11-13-yell-o-yell.md
 - _posts/2018-11-13-virat.md
